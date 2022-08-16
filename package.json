@@ -1,0 +1,16 @@
+{
+  "name": "common-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ioc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^10.1.0",
+    "glob": "^8.0.3"
+  }
+}

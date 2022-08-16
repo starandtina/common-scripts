@@ -24,7 +24,7 @@ module.exports = class Container {
   }
 
   getName(Module) {
-    return Module.name.toLowerCase();
+    return Module?.name?.toLowerCase();
   }
 
   get(Module) {
